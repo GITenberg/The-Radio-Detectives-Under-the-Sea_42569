@@ -1,0 +1,35 @@
+_repo: The-Radio-Detectives-Under-the-Sea_42569
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42569-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Verrill, A. Hyatt (Alpheus Hyatt)
+    alias: Verrill, Alpheus Hyatt
+    birthdate: 1871
+    deathdate: 1954
+    gutenberg_agent_id: '5100'
+    url: http://www.gutenberg.org/2009/agents/5100
+    wikipedia: http://en.wikipedia.org/wiki/Alpheus_Hyatt_Verrill
+description: Enthralled by the emerging technology of radio, young Tom Pauling begins
+  building rudimentary radios of his own. But what begins as a harmless hobby leads
+  Tom and his buddies into a shadowy world of intrigue, mystery and danger. Young
+  readers will delight in this tightly plotted detective story.
+gutenberg_issued: '2013-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42569'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Adventure stories'
+- !lcsh 'Diving suits -- Juvenile fiction'
+- !lcsh 'Submarines (Ships) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Radio -- Juvenile fiction'
+title: The Radio Detectives Under the Sea
+url: http://www.gutenberg.org/ebooks/42569
